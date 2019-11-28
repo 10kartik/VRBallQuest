@@ -8,7 +8,8 @@
 <hr>
 <h3> Controls </h3>
   
-  ♦<b>KEYBOARD</b> = Use Up Arrow,Down Arror,Left Arrow And Right Arrow Key.
+  ♦<b>KEYBOARD</b> = Use Up Arrow,Down Arror,Left Arrow And Right Arrow Key to Move the Ball.
+                     Press "R" to Restart the Level.
   <br>
   ♦<b>JoyStick</b> = Use Y,A,X,B keys.
   
