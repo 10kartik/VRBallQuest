@@ -3,6 +3,7 @@
 <hr>
 <h3> Rules </h3>
  <p> ♦Reach the Green Plank without hitting The Lava Below the Ground </p>
+ ♦Pushing Obstacles Like Cube Box into Lava is <b>NOT</b> Allowed
 <br>
 <hr>
 <h3> Controls </h3>
