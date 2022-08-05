@@ -1,4 +1,4 @@
-</h1> VIRTUAL REALITY Ball VR</h1>
+<h1> VIRTUAL REALITY Ball VR</h1>
 <br>
 <b>PREVIEWS</b>
 <img src="https://github.com/kartikk10/Virtual-Reality/blob/master/Previews/Level%201.png?raw=true">
